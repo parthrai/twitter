@@ -15,7 +15,7 @@ class twitterServiceProvider extends ServiceProvider
      */
 
     protected $commands = [
-        \parthrai\twitter\Commands\ConnectToStreamingAPI::class,
+        \parths\twitter\Commands\ConnectToStreamingAPI::class,
 
     ];
 
