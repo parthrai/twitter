@@ -1,0 +1,13 @@
+{
+    "name": "parths/twitter",
+    "description": "twitter streaming api for laravel",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Parth Rai",
+            "email": "parthrai2@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
